@@ -1,5 +1,19 @@
 /* CSS files add styling rules to your content */
 
 h1 {
-  color: green;
+  color: #1478DC;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #DDDDDD;
+}
+
+.header-menu {
+  display: flex;
+  justify-content: space-between;
 }
